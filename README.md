@@ -4,4 +4,4 @@ Random STLs without any context whatsoever. <br/>
 
 # CREDITS
 
-Protobean created by ![BossMonstaLV](https://bossmonsta.com/).
+Protobean created by [BossMonstaLV](https://bossmonsta.com/).
